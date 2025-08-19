@@ -22,8 +22,11 @@ Built with **HTML, CSS, and JavaScript**, and hosted on **GitHub Pages**.
 
 ## 📂 Project Structure
 pokemon-gallery/
+
 │── index.html # Main HTML file
+
 │── screenshot.png # Screenshot preview
+
 │── README.md # Project documentation
 
 yaml
@@ -43,19 +46,22 @@ https://pokeapi.co/api/v2/pokemon?limit=8&offset=0
 yaml
 Copy code
 2. For each Pokémon, it retrieves additional details (like image + name).
+
 3. Data is displayed inside a responsive **grid of cards**.
+
 4. Pagination lets you browse Pokémon page by page.
 
----
+🛠️ Technologies Used
 
-## 🛠️ Technologies Used
-- **HTML5**
-- **CSS3**
-- **JavaScript (Vanilla)**
-- **PokéAPI**
-- **GitHub Pages**
+HTML5
 
----
+CSS3
+
+JavaScript (Vanilla)
+
+PokéAPI
+
+GitHub Pages
 
 ## 👨‍💻 Author
 **Sudhanshu Mishra**  
