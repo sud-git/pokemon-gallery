@@ -29,9 +29,6 @@ pokemon-gallery/
 
 │── README.md # Project documentation
 
-yaml
-Copy code
-
 ---
 
 ## 📸 Screenshot
@@ -43,8 +40,7 @@ Copy code
 1. The app fetches Pokémon data from the PokéAPI:
 https://pokeapi.co/api/v2/pokemon?limit=8&offset=0
 
-yaml
-Copy code
+
 2. For each Pokémon, it retrieves additional details (like image + name).
 
 3. Data is displayed inside a responsive **grid of cards**.
