@@ -14,6 +14,12 @@ Built with **HTML, CSS, and JavaScript**, and hosted on **GitHub Pages**.
 - Responsive design for desktop and mobile.
 
 ---
+
+## 🌍 Live Demo
+🔗 [Pokémon Gallery](https://sud-git.github.io/pokemon-gallery/)  
+
+---
+
 ## 📂 Project Structure
 pokemon-gallery/
 
