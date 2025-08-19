@@ -14,12 +14,6 @@ Built with **HTML, CSS, and JavaScript**, and hosted on **GitHub Pages**.
 - Responsive design for desktop and mobile.
 
 ---
-
-## 🌍 Live Demo
-🔗 [Pokémon Gallery](https://sud-git.github.io/pokemon-gallery/)  
-
----
-
 ## 📂 Project Structure
 pokemon-gallery/
 
@@ -37,8 +31,7 @@ pokemon-gallery/
 ---
 
 ## ⚙️ How It Works
-1. The app fetches Pokémon data from the PokéAPI:
-https://pokeapi.co/api/v2/pokemon?limit=8&offset=0
+1. The app fetches Pokémon data from the PokéAPI.
 
 
 2. For each Pokémon, it retrieves additional details (like image + name).
